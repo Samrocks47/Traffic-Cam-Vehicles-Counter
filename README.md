@@ -26,7 +26,8 @@ For live cam analysis use
 ```bash
 path=0
 ```
-in main File
+* in main File
 ---
+
 
 
