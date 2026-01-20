@@ -1,4 +1,4 @@
-## Traffic Cam Vehicles Counter🚦🚗 
+## Traffic Cam Vehicles Counter
 * A real-time vehicle detection and counting system using YOLO and OpenCV.
 * The system detects cars, buses, trucks, and motorbikes and counts them as they cross a defined line. 
 ---
@@ -28,6 +28,7 @@ path=0
 ```
 * in main File
 ---
+
 
 
 
