@@ -28,7 +28,3 @@ path=0
 ```
 * in main File
 ---
-
-
-
-
